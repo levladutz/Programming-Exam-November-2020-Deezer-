@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.company","l":"Ad"},{"p":"com.company","l":"AdCatalog"},{"p":"com.company","l":"Album"},{"p":"com.company","l":"AlbumCatalog"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"Playlist"},{"p":"com.company","l":"Song"},{"p":"com.company","l":"Time"}];updateSearchResults();
